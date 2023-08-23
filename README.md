@@ -1,7 +1,7 @@
 
 ### Hi there!!
 <div style= "display:incline_block">
-<img align="center" scr="https://github.com/BarbaraUchoa/BarbaraUchoa/assets/141961756/cb811d1c-37fe-439c-87f0-f5dca2dd5a45">
+<img align="center" scr="![urso](https://github.com/BarbaraUchoa/BarbaraUchoa/assets/141961756/6f284e91-7d73-42dc-b805-d5eb578b8a9c)">
 </div>
 
 :heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Universidade virtual do estado de São Paulo, e faço o curso de Front End que é ministrado pelo Senai São Paulo na unidade ipiranga e que tem o Icentivo da Ford.
@@ -23,4 +23,4 @@
   <img align="center" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 
-<a href="https://github.com/BarbaraUchoa?tab=repositories">Meus Repositórios
+<a href="https://github.com/BarbaraUchoa?tab=repositories"> <img align="center" scr="https://github.com/BarbaraUchoa/BarbaraUchoa/assets/141961756/cb811d1c-37fe-439c-87f0-f5dca2dd5a45">Meus Repositórios
