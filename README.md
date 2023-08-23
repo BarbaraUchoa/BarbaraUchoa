@@ -1,8 +1,7 @@
 
 ### Hi there!!
 <div style= "display:incline_block">
-<img align="center" scr="![urso](https://github.com/BarbaraUchoa/BarbaraUchoa/assets/141961756/6f284e91-7d73-42dc-b805-d5eb578b8a9c)">
-</div>
+<img align="
 
 :heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Universidade virtual do estado de São Paulo, e faço o curso de Front End que é ministrado pelo Senai São Paulo na unidade ipiranga e que tem o Icentivo da Ford.
 
