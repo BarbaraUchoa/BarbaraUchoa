@@ -1,7 +1,9 @@
 
-### Hi there!!
-<div style= "display:incline_block">
-<img align="
+### Hi there!!  <img height= "80" src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2018/10/coracao-png-9.png?resize=696%2C614&ssl=1)">
+
+
+
+
 
 :heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Universidade virtual do estado de São Paulo, e faço o curso de Front End que é ministrado pelo Senai São Paulo na unidade ipiranga e que tem o Icentivo da Ford.
 
@@ -9,8 +11,8 @@
 
 <div>
   <a href="https://github.com/BarbaraUchoa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraUchoa&show_icons=true&theme=synthwave">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraUchoa&layout=compact&langs-count=168&theme=synthwave">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BarbaraUchoa&show_icons=true&theme=synthwave">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraUchoa&layout=compact&langs-count=168&theme=synthwave">
   </a>
 </div>
 
