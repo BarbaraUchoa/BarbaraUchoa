@@ -5,7 +5,7 @@
 
 
 
-:heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Universidade virtual do estado de São Paulo, e faço o curso de Front End que é ministrado pelo Senai São Paulo na unidade ipiranga e que tem o Icentivo da Ford.
+:heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Universidade virtual do estado de São Paulo, e faço o curso de Front End que é ministrado pelo Senai São Paulo na unidade Ipiranga e que tem o Incentivo da Ford.
 
 ⚡ Curiosidade: Amo aprender
 
