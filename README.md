@@ -22,6 +22,8 @@
   <img align="center" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
   <img align="center" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+
 
 
 <a href="https://github.com/BarbaraUchoa?tab=repositories"> <img align="center" scr="https://github.com/BarbaraUchoa/BarbaraUchoa/assets/141961756/cb811d1c-37fe-439c-87f0-f5dca2dd5a45">Meus Repositórios
