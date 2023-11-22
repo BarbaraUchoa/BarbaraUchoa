@@ -38,7 +38,7 @@
 
 
 
-![Snake animation](https://github.com/BarbaraUchoa/BarbaraUchoa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BarbaraUchoa/BarbaraUchoa/blob/output/github-contribution-grid-snake-dark.svg)
  
 
 <a href="https://github.com/BarbaraUchoa?tab=repositories"> <img align="center" scr="https://github.com/BarbaraUchoa/BarbaraUchoa/assets/141961756/cb811d1c-37fe-439c-87f0-f5dca2dd5a45">Meus Repositórios
