@@ -5,7 +5,7 @@
 
 
 
-:heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Impacta, e Ciência de Dados pela Universidade virtual do estado de São Paulo, amo aprender e saber sobre tecnologias.
+:heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Impacta, e Ciência de Dados pela Universidade virtual do estado de São Paulo, amo aprender e saber sobre tecnologias.<p> <p>
 :heartpulse:'m Bárbara Uchoa, a Computer Engineering student at Impacta, and Data Science at the Virtual University of the state of São Paulo, I love learning and knowing about technologies.
 
 ⚡ Curiosidade: Amo aprender<br>
