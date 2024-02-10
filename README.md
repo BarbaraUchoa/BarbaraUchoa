@@ -5,8 +5,8 @@
 
 
 
-:heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Universidade virtual do estado de São Paulo, e faço o curso de Front End que é ministrado pelo Senai São Paulo na unidade Ipiranga e que tem o Incentivo da Ford.<br><br>
-:heartpulse:I'm Bárbara Uchoa, a Computer Engineering student at the Virtual University of the state of São Paulo, and I'm taking the Front End course that is taught by Senai São Paulo at the Ipiranga unit and which has the Ford Incentive.<br>
+:heartpulse: Sou a Bárbara Uchoa aluna de Engenharia da Computação pela Impacta, e Ciência de Dados pela Universidade virtual do estado de São Paulo, amo aprender e saber sobre tecnologias.
+:heartpulse:'m Bárbara Uchoa, a Computer Engineering student at Impacta, and Data Science at the Virtual University of the state of São Paulo, I love learning and knowing about technologies.
 
 ⚡ Curiosidade: Amo aprender<br>
 
